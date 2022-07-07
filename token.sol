@@ -3,7 +3,7 @@ pragma solidity 0.8.7;
 /// ERC-20
 /// @title SmartContract Demo BHD (Basset Hound Token).
 /// @author davthecoder
-/// @notice Explain to an end user what this does
+/// @notice tested and deployed om Gorlin Test Network with https://remix.ethereum.org/ 
 /// @dev Explain to a developer any extra details
 
 abstract contract ERC20Token {
